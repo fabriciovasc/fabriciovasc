@@ -2,7 +2,7 @@
 - :performing_arts: programming is an **art**
 - :mortar_board: graduating is **analysis and systems development**
 - :office: intern at [eCondos](https://econdos.com.br)
-- 👨‍💻 skills in:
+- 👨‍💻 **skills** in:
   - Angular 4+ :star: :star: :star: :star:
   - Ionic 3+ :star: :star: :star: :star:
   - Bootstrap 3+ :star: :star: :star: :star:
