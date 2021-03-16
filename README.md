@@ -1,12 +1,18 @@
 ## :ghost: This is me
-- :performing_arts: programming is an **art**
-- :mortar_board: graduating is **analysis and systems development**
-- :office: intern at [eCondos](https://econdos.com.br)
-- 👨‍💻 **skills** in:
-  - Angular 4+ :star: :star: :star: :star:
-  - Ionic 3+ :star: :star: :star: :star:
-  - Bootstrap 3+ :star: :star: :star: :star:
-  - Node :star: :star: :star:
-  - CMS (Wordpress and Elementor Pro) :star: :star: :star: :star:
-  - Python :star: :star:
-  
+- 🧠 javascript enthusiast, loves Angular
+- :office: junior fullstack dev at [eCondos](https://econdos.com.br)
+- 👨‍💻 solid knowledge:
+```
+Angular | RxJs | Bootstrap | Typescript | Node
+Ionic | Cordova | iOS and Android deployments
+Javascript | Node | Express.js | Koa | Mocha | Unit tests | Test-driven development
+NoSQL & MongoDB | SQL & MySQL
+API Rest | API RESTful
+Wordpress | Elementor
+
+```
+- 📚 learning more from:
+```
+Python | Jinja2 | Flask | SQLAlchemy | Pandas | Jupyter
+Java | Gradle | JUnit
+```
