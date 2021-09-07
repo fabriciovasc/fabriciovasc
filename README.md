@@ -14,5 +14,5 @@ Wordpress | Elementor
 - 📚 learning more from:
 ```
 Python | Jinja2 | Flask | SQLAlchemy | Pandas | Jupyter
-Java | Gradle | JUnit
+Java | Gradle | JUnit | Spring Boot
 ```
