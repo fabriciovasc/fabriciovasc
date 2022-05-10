@@ -1,4 +1,4 @@
-## :ghost: This is me
+## :ghost: That's me
 - 🧠 javascript enthusiast, loves Angular
 - :office: fullstack dev at [eCondos](https://econdos.com.br)
 - 👨‍💻 solid knowledge:
