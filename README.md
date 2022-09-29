@@ -1,4 +1,4 @@
-## :ghost: That's me
+## :ghost: It's me @fabriciovasc
 - 🧠 Javascript enthusiast
 - :office: Fullstack dev at [eCondos](https://econdos.com.br)
 - 👨‍💻 Hard skills:
