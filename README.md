@@ -1,19 +1,15 @@
-## :ghost: It's me @fabriciovasc
+## 🫡 It's me [@fabriciovasc](https://www.linkedin.com/in/fabriciovasc/)
 - 🧠 Javascript enthusiast
-- :office: Fullstack dev at [eCondos](https://econdos.com.br)
-- 👨‍💻 Hard skills:
-```
-Angular | RxJs | Bootstrap | Typescript | Node
-Ionic | Cordova | iOS and Android deployments
-Javascript | Node | Express.js | Koa | Mocha | Unit tests | Test-driven development
-NoSQL & MongoDB | SQL & MySQL
-API Rest | API RESTful
-RabbitMQ | CI/CD | Redis
+- :office: Full Stack Developer at [eCondos](https://econdos.com.br)
 
+## 🚀 Current experiences
+- 👨‍💻 Good experiences with:
 ```
-- 📚 Hard skills in progress:
+JavaScript · TypeScript · Angular · Node.js · Design Patterns · Koa.js · SDK development · Capacitor · Apache Cordova ·
+Test Driven Development · RxJS · Unit Testing · Integration Testing · Gitlab · Continuous Integration · React.js · RabbitMQ ·
+Redis · Amazon Web Services (AWS) · Amazon EC2 · AWS Security · Amazon S3 · MongoDB · Ionic Framework · Express.js · NestJS
 ```
-Python | Jinja2 | Flask | SQLAlchemy | Pandas | Jupyter
-Java | Gradle | JUnit | Spring Boot
-React | Vue | Parse | MQTT | Arduino
+- 📚 Learning experiences:
+```
+Docker · Docker Compose · Spring Boot · VueJS · SOLID · React Native · Kafka · Micro services
 ```
